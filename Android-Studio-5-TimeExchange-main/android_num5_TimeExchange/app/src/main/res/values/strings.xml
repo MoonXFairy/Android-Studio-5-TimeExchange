@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">android_num5_TimeExchange</string>
+    <string name="Hw5_year">西元年 : </string>
+    <string name="Hw5_month">月 : </string>
+    <string name="Hw5_day">日 : </string>
+    <string name="Hw5_now_time">時間 : </string>
+    <string name="Hw5_clock">點</string>
+    <string name="Hw5_minute">分</string>
+    <string name="Hw5_second">秒</string>
+    <string name="Hw5_leap_year">閏年 : </string>
+    <string name="Hw5_ymd">年/月/日</string>
+    <string name="Hw5_hms">時:分:秒</string>
+    <string name="Hw5_title">時間換算</string>
+    <string name="Hw5_set_time">顯示</string>
+</resources>
